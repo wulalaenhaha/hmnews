@@ -5,7 +5,7 @@ import store from './store'
 import router from './router'
 import Vant from 'vant';
 import 'vant/lib/index.css';
-
+import 'amfe-flexible/index.js'  //设置rem基准值
 Vue.use(Vant);
 
 
